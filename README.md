@@ -18,4 +18,4 @@ http://www.boost.org/
 
 You can compile kmerPurge_pair_unorderedmap.cpp as below.
 
-$ g++ kmerPurge_pair_unorderedmap.cpp -o kmerPurge_pair_unorderedmap -lpthread -O3 
+g++ kmerPurge_pair_unorderedmap.cpp -o kmerPurge_pair_unorderedmap -lpthread -O3 
